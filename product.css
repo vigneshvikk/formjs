@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(./360_F_391461057_5P0BOWl4lY442Zoo9rzEeJU0S2c1WDZR.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 77vh;
+}
+.container{
+    background-color: rgba(186, 124, 230, 0.155);
+    color: white;
+    margin-top: 25vh;
+    border-radius: 25px 0px 25px 0px;
+    box-shadow: 5px 2px 5px rgba(16, 17, 16, 0.662)   , -5px -2px 5px rgba(16, 17, 16, 0.662)  ;
+}
